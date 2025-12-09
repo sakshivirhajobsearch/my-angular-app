@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Node.js / JavaScript / TypeScript, Express.js, Angular
+- **Detected Technologies:** Angular, CSS, HTML, TypeScript
 - **GitHub Topics:** None
 
 ---
